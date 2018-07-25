@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1530155836 source:c:\users\sebas\desktop\repositorio\defensatpconarchivos\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Destinatarios.h"
+
+1529864513 c:\users\sebas\desktop\repositorio\defensatpconarchivos\arraylist.h
+
+1530148573 c:\users\sebas\desktop\repositorio\defensatpconarchivos\destinatarios.h
+	"ArrayList.h"
+
+1530161048 source:c:\users\sebas\desktop\repositorio\defensatpconarchivos\destinatarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Destinatarios.h"
+
+1530148661 source:c:\users\sebas\desktop\repositorio\defensatpconarchivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Destinatarios.h"
+	"ArrayList.h"
+

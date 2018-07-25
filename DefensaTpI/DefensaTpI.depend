@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1529851795 source:c:\users\sebas\desktop\repositorio\defensatpi\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	"Validaciones.h"
+	"ArrayList.h"
+	"pacientes.h"
+
+1529620246 source:c:\users\sebas\desktop\repositorio\defensatpi\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"validaciones.h"
+
+1529615810 c:\users\sebas\desktop\repositorio\defensatpi\validaciones.h
+
+1530129993 source:c:\users\sebas\desktop\repositorio\defensatpi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Validaciones.h"
+	"ArrayList.h"
+	"pacientes.h"
+
+1529851795 c:\users\sebas\desktop\repositorio\defensatpi\arraylist.h
+
+1529851924 c:\users\sebas\desktop\repositorio\defensatpi\pacientes.h
+
+1529852810 source:c:\users\sebas\desktop\repositorio\defensatpi\pacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Validaciones.h"
+	"pacientes.h"
+
